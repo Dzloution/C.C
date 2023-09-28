@@ -1,0 +1,50 @@
+.vidiki{
+    border: 5px solid;
+    border-color: rgb(255, 255, 255);
+}
+
+.ThPoster{
+    border: 3px solid;
+    border-color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+
+#ppp{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+
+P{
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+img{
+    border-radius: 15px;
+}
+
+body{
+    background-image: url(https://mobimg.b-cdn.net/v3/fetch/32/32e061cab656927882ec71c2588be30e.jpeg);
+    background-attachment: scroll;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 90px 0px;
+}
+
+form{
+    color: white;
+}
+
+#charactersss{
+    border-radius: 10px;
+}
+
+input{
+    width: 10%;
+    padding: 10px;
+    border-radius: 10px;
+}
